@@ -1,4 +1,4 @@
-#idea for codefundo
+#idea for codefundo++
 
 **What we are planning to build....**
 1. An application (DEEDSFORNEEDS) that will work for the betterment of the people stuck in natural calamities, so that they can be provided with relief at the earliest.
