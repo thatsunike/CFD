@@ -18,5 +18,6 @@ DEEDSFORNEEDS : When the user donates a particular amount through the applicatio
 Fighting Forest Fires : Minimal human intervention requirement.(Just regular maintenance.)
 
 **The technology we will be using....**
-We might use Java, C, C++(in Microsoft Visual Studio). 
+Application will be for Windows Platform. (Can be extended across other platforms afterwards)
+We will use Java, C, C++(in Microsoft Visual Studio). 
 
